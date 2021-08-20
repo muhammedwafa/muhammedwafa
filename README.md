@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
-[linkedin]: www.linkedin.com/in/mohamed-wafa-b12290125/
+[linkedin]: https://www.linkedin.com/in/mohamed-wafa-b12290125/
 [facebook]: https://www.facebook.com/muhammed.elbasionywafa/
 [gmail]: mohamed.wafa770@gmail.com    
  
