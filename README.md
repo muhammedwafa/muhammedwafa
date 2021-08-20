@@ -3,21 +3,6 @@ About myself, i am a petroeluem engineer with almost 5 years experience, who is 
 i have been doing full stack development using java technologies since 2020.
 -🌱 I’m currently a Digitalization team member in Agiba petroleum company, acting as a petroleum engineer and also a member of a team that implements a digital solutions to maximize oil and gas production.
 
-
-- Programming languages : <br />
-![Years Badge](https://badges.pufler.dev/years/muhammedwafa)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-<br />
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-
 <!--
 **muhammedwafa/muhammedwafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-Client side technologies:
+####  Client side technologies:
 ------------------------
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -44,6 +29,12 @@ Client side technologies:
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 
+
+### server side technologies:
+
+
+
+### tools and IDEs:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
@@ -59,16 +50,12 @@ Client side technologies:
 
 <br /
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-<br />
-<h3>⚡ Find Me At:</><br>
-    <p align="center">
-<a href="https://www.linkedin.com/in/mohamed-wafa-b12290125/"><img src="https://img.shields.io/badge/-%20Basiony-05122A?style=flat&logo=Linkedin"/></a>
-<a href="https://www.facebook.com/muhammed.elbasionywafa/"><img src="https://img.shields.io/badge/-%20Basiony-05122A?style=flat&logo=facebook"/></a>
-<a href="mohamed.wafa770@gmail.com"><img src="https://img.shields.io/badge/-%20Basiony-05122A?style=flat&logo=gmail"/></a>
-<p>
+
+[linkedin]: www.linkedin.com/in/mohamed-wafa-b12290125/
+[facebook]: https://www.facebook.com/muhammed.elbasionywafa/
+[gmail]: mohamed.wafa770@gmail.com    
+ 
