@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there,this is Basiony 👋
+About myself, i am a petroeluem engineer with almost 5 years experience, who is passionate about programming and learning in gneneral. 
+i have been doing full stack development using java technologies since 2020.
+- 🔭 I’m currently working on ...DOF, which stands for digital oil field. in a nut shell this has to do with implementaing solutions using programming to help with oil and gas production optimization.
 <!--
 **muhammedwafa/muhammedwafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
