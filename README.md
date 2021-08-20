@@ -4,7 +4,8 @@ i have been doing full stack development using java technologies since 2020.
 -🌱 I’m currently a Digitalization team member in Agiba petroleum company, acting as a petroleum engineer and also a member of a team that implements a digital solutions to maximize oil and gas production.
 
 ### Languages and Tools:
-# Client side technologies:
+### Client side technologies:
+----------------------------
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][]
@@ -12,7 +13,6 @@ i have been doing full stack development using java technologies since 2020.
 [<img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/favicons/favicon.ico" />][]
  
 ### Server side technologies:
- ------------------------
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 
